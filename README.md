@@ -1,1 +1,1 @@
-# 3rdsem
+# 3rdsem Mental health hackathon
