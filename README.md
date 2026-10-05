@@ -37,7 +37,16 @@ The code is rough, the design is minimal, and it's still one of my favourite pro
 
 
 > If something breaks, that's part of the authentic experience. Welcome to our hackathon. 
+##  Featured Exhibit: The Chatbot
 
+The plan was to integrate real AI by following a YouTube tutorial.
+
+What we actually shipped was an echo chatbot. 🦜
+
+You type a message, and it politely replies with You said: <your message>. It opens with a warm "Hello! How can I help you?", and then it helps you by repeating everything back. No advice and no AI, but it is a very good listener.
+
+Some say it's the world's most patient therapist. Others say it's just a bug that we promoted to a feature.
+![Uploading image.png…]()
 
 
 ##  Team
